@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Local Weather</string>
+    <string name="provider_name">Local Weather</string>
+    <string name="sync_receiver">SyncBroadcastReceiver</string>
+    <string name="update_now">Update Forecast</string>
+    <string name="date_time">Date/Time</string>
+    <string name="weather_from">Weather From</string>
+    <string name="image_placeholder">image placeholder</string>
+    <string name="main_text">Main Text</string>
+    <string name="desc">Description</string>
+    <string name="temp">Temperature</string>
+    <string name="max_min">Max/Min</string>
+    <string name="cur_location">Current Location</string>
+    <string name="location_details">Location Details :</string>
+    <string name="forecast_details">Forecast Details :</string>
+    <string name="divider">divider</string>
+
+</resources>
